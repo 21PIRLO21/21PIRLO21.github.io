@@ -1,2 +1,3 @@
 name: 21PIRLO21, Horrible Cop
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
