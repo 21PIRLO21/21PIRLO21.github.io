@@ -1,3 +1,5 @@
 name: 21PIRLO21, Horrible Cop
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+paginate: 5  # 指定一页有几篇文章
+paginate_path: "/blog/page:num/"
