@@ -16,7 +16,7 @@ date: 2020-11-15
 
 ## 二、填充方式(以一维卷积为例)
 
-![convo01](../assets/blog_Images/1D_Convolution01.jpg)
+![convo01]({{ '/assets/blog_Images/1D_Convolution01.jpg' | prepend: site.baseurl }})
 
 ### 1、常用padding
 
