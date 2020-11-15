@@ -27,9 +27,11 @@ date: 2020-11-15
 ![same](../assets/blog_Images/1D_same01.jpg)
 
 <div align=center>
-    <img src="../assets/blog_Images/1D_same01.jpg" width = "50%" height = "50%" alt="same"
-    align=center>
+    <img src="/assets/blog_Images/1D_same01.jpg" width=50% height=50% alt="same">
 </div>
+
+<img src="/assets/blog_Images/1D_same01.jpg" width=30% height=30%>
+
 
 #### ③full--卷积核*边沿*在信号内
 ![full](../assets/blog_Images/1D_full01.jpg)
