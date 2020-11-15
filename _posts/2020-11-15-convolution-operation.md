@@ -21,7 +21,7 @@ date: 2020-11-15
 ### 1、常用padding
 
 #### ①valid--卷积核*完全*在信号内
-![valid](../assets/blog_Images/1D_valid01.jpg)
+![valid](/assets/blog_Images/1D_valid01.jpg)
 
 #### ②same--卷积核*中心*在信号内
 ![same](../assets/blog_Images/1D_same01.jpg)
