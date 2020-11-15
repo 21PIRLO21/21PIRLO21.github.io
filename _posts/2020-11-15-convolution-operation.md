@@ -26,10 +26,10 @@ date: 2020-11-15
 #### ②same--卷积核*中心*在信号内
 ![same](../assets/blog_Images/1D_same01.jpg)
 
-<center>
+<div align=center>
     <img src="../assets/blog_Images/1D_same01.jpg" width = "50%" height = "50%" alt="same"
     align=center>
-</center>
+</div>
 
 #### ③full--卷积核*边沿*在信号内
 ![full](../assets/blog_Images/1D_full01.jpg)
